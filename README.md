@@ -9,7 +9,7 @@ This resource can be used freely if integrated or build upon in personal or comm
 
 Demos for the tutorial on an experimental 3D layout technique for HTML elements. By Daniel Velasquez.
 
-![3D Folded Layout](https://tympanus.net/codrops/wp-content/uploads/2020/01/FoldingDOM_featured.jpg)
+(https://tympanus.net/codrops/wp-content/uploads/2020/01/FoldingDOM_featured.jpg)
 
 [Article on Codrops](https://tympanus.net/codrops/?p=46441)
 
